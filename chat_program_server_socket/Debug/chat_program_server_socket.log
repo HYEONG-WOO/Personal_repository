@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\guddn\source\repos\chat_program_server_socket\chat_program_server_socket\main.cpp(65,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  chat_program_server_socket.vcxproj -> C:\Users\guddn\source\repos\chat_program_server_socket\Debug\chat_program_server_socket.exe
