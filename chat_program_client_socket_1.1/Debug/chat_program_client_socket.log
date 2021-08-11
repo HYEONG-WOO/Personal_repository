@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\guddn\source\repos\chat_program_client_socket\chat_program_client_socket\main.cpp(31,35): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\guddn\source\repos\chat_program_client_socket\chat_program_client_socket\main.cpp(66,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  chat_program_client_socket.vcxproj -> C:\Users\guddn\source\repos\chat_program_client_socket\Debug\chat_program_client_socket.exe
